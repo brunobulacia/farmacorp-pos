@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FarmacorpPOS.Application/FarmacorpPOS.Application.csproj" />
+  <Project Path="FarmacorpPOS.Console/FarmacorpPOS.Console.csproj" />
+  <Project Path="FarmacorpPOS.Domain/FarmacorpPOS.Domain.csproj" />
+  <Project Path="FarmacorpPOS.Infrastructure/FarmacorpPOS.Infrastructure.csproj" />
+</Solution>
